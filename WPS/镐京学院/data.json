@@ -6,7 +6,7 @@
       "elements": [
         {"type": "text", "x": 60, "y": 55, "w": 840, "h": 70, "text": "镐京学院", "fs": 52, "color": "#00663D", "bold": true, "align": 2, "font": "SimHei"},
         {"type": "text", "x": 60, "y": 160, "w": 840, "h": 35, "text": "2025年本科招生数据全景", "fs": 26, "color": "#555555", "bold": false, "align": 2},
-        {"type": "image", "x": 50, "y": 240, "w": 860, "h": 90, "file": "images/chart_numbers.png"},
+        {"type": "image", "x": 50, "y": 240, "w": 860, "h": 90, "file": "01封面页.png"},
         {"type": "text", "x": 60, "y": 410, "w": 840, "h": 35, "text": "华南第一学府  ·  三校区五校园  ·  粤港澳大湾区核心", "fs": 24, "color": "#B2062E", "bold": true, "align": 2, "font": "SimHei"},
         {"type": "text", "x": 60, "y": 485, "w": 840, "h": 25, "text": "孙中山先生1924年创办  ·  985/211/双一流A类  ·  63个专业  ·  招生≈7,845人", "fs": 14, "color": "#999999", "bold": false, "align": 2}
       ]
@@ -33,10 +33,10 @@
       ]
     },
     {
-      "id": 3, "title": "学校概况",
+      "id": 03, "title": "章节过渡页",
       "elements": [
         {"type": "text", "x": 60, "y": 14, "w": 840, "h": 40, "text": "学校概况", "fs": 40, "color": "#00663D", "bold": true, "align": 2, "font": "SimHei"},
-        {"type": "image", "x": 30, "y": 78, "w": 320, "h": 210, "file": "images/image3.jpeg"},
+        {"type": "image", "x": 30, "y": 78, "w": 320, "h": 210, "file": "03章节过渡页.jpeg"},
         {"type": "text", "x": 370, "y": 80, "w": 270, "h": 28, "text": "华南第一学府", "fs": 26, "color": "#00663D", "bold": true, "align": 1, "font": "SimHei"},
         {"type": "text", "x": 370, "y": 118, "w": 270, "h": 170, "text": "■ 1924年孙中山先生创办\n■ 985工程 · 211工程\n   双一流A类建设高校\n■ 三校区五校园\n   广州(南·北·东)\n   珠海 · 深圳\n■ QS世界排名第267位\n■ 20个学科ESI全球前1%\n   5个学科ESI前1‰\n■ 11个双一流建设学科", "fs": 15, "color": "#333333", "bold": false, "align": 1, "line_spacing": 1.15},
         {"type": "image", "x": 660, "y": 78, "w": 270, "h": 180, "file": "images/image4.jpeg"},
@@ -46,33 +46,26 @@
       ]
     },
     {
-      "id": 4, "title": "招生总览",
+      "id": 4, "title": "内容页",
       "elements": [
         {"type": "text", "x": 60, "y": 14, "w": 840, "h": 40, "text": "招生总览", "fs": 40, "color": "#00663D", "bold": true, "align": 2, "font": "SimHei"},
-        {"type": "image", "x": 15, "y": 78, "w": 560, "h": 290, "file": "images/chart_pie.png"},
+        {"type": "image", "x": 15, "y": 78, "w": 560, "h": 290, "file": "04内容页.png"},
         {"type": "image", "x": 590, "y": 78, "w": 340, "h": 210, "file": "images/chart_campus.png"},
         {"type": "text", "x": 590, "y": 305, "w": 340, "h": 180, "text": "2025年招生关键数据:\n\n◆ 总计划≈7,845人(内地)\n\n◆ 面向29个省市招生\n\n◆ 63个本科招生专业\n\n◆ 广东省3,091人\n   占总计划约40%\n\n◆ 理工/信息类占比最大\n   约3,200人(41%)\n\n◆ 医学类紧随其后\n   约2,100人(27%)", "fs": 15, "color": "#333333", "bold": false, "align": 1, "line_spacing": 1.15},
         {"type": "tagline_bar", "x": 25, "y": 498, "w": 910, "h": 28, "text": "≈7,845人 · 29省市 · 63个专业 · 广东3,091人(40%) · 理工41% + 医学27% · 五校园分布", "color": "#00663D"}
       ]
     },
     {
-      "id": 5, "title": "物理类",
-      "elements": [
-        {"type": "text", "x": 60, "y": 14, "w": 840, "h": 40, "text": "物理类", "fs": 40, "color": "#00663D", "bold": true, "align": 2, "font": "SimHei"},
-        {"type": "image", "x": 10, "y": 78, "w": 940, "h": 355, "file": "images/chart_physics.png"},
-        {"type": "text", "x": 30, "y": 445, "w": 900, "h": 45, "text": "物理类需全省前1000-10000名  河南654(位次6779)  广东628(位次10616)  关键分界线≈640", "fs": 16, "color": "#555555", "bold": false, "align": 2}
-      ]
-    },
-    {
-      "id": 6, "title": "历史类",
+     
+     "id": 5, "title": "结束页",
       "elements": [
         {"type": "text", "x": 60, "y": 14, "w": 840, "h": 40, "text": "历史类", "fs": 40, "color": "#B2062E", "bold": true, "align": 2, "font": "SimHei"},
-        {"type": "image", "x": 10, "y": 78, "w": 940, "h": 340, "file": "images/chart_history.png"},
+        {"type": "image", "x": 10, "y": 78, "w": 940, "h": 340, "file": "05结束页.png"},
         {"type": "text", "x": 30, "y": 430, "w": 900, "h": 60, "text": "历史类需全省前200-1500名  内蒙古643分(位次217)  广东623分(位次1590)  关键分界线≈635", "fs": 16, "color": "#555555", "bold": false, "align": 2}
       ]
     },
     {
-      "id": 7, "title": "热门专业",
+      "id": 6, "title": "热门专业",
       "elements": [
         {"type": "text", "x": 60, "y": 14, "w": 840, "h": 40, "text": "热门专业", "fs": 40, "color": "#00663D", "bold": true, "align": 2, "font": "SimHei"},
         {"type": "image", "x": 15, "y": 78, "w": 580, "h": 300, "file": "images/chart_majors.png"},
@@ -83,7 +76,7 @@
       ]
     },
     {
-      "id": 8, "title": "广东本省",
+      "id": 7, "title": "广东本省",
       "elements": [
         {"type": "text", "x": 60, "y": 14, "w": 840, "h": 40, "text": "广东本省", "fs": 40, "color": "#B2062E", "bold": true, "align": 2, "font": "SimHei"},
         {"type": "text", "x": 30, "y": 78, "w": 420, "h": 28, "text": "广东3,091人 · 占全国40%", "fs": 26, "color": "#B2062E", "bold": true, "align": 1, "font": "SimHei"},
